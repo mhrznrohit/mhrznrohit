@@ -1,11 +1,14 @@
 ## Hi there 👋
 ![Screenshot](images/linkedin.jpg)
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mhrznrohit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=mhrznrohit&theme=dark&hide_border=false)  
+
+# 💻 Most Used Languages:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhrznrohit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=mhrznrohit&theme=dark)
 
 
 <!--
@@ -22,4 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![trophy](https://github-profile-trophy.vercel.app/?username=mhrznrohit)
+
