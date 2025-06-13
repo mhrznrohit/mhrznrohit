@@ -8,8 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=mhrznrohit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 
 # 💻 Most Used Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhrznrohit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhrznrohit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 
 
 
