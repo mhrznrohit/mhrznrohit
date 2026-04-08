@@ -2,7 +2,7 @@
 ![Screenshot](images/linkedin.jpg)
 
 # 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=mhrznrohit&theme=dark)
+![](https://github-profile-trophy.vercel.app/?username=mhrznrohit)
 
 <!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mhrznrohit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
